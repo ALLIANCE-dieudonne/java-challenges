@@ -34,6 +34,9 @@ class Student {
 }
 
 
+
+
+
 public class Arrays {
 
   public static void main(String[] args) {
@@ -74,6 +77,9 @@ public class Arrays {
     };
 
     System.out.println(nums[1][0]);
+
+
+
 
 
 
