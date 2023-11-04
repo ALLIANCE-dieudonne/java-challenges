@@ -36,7 +36,7 @@ public class StringReverse {
   }
 
   //second algorithm
-  //this is ineficient bcz many instances of string will be created
+  //this is inefficient bcz many instances of string will be created
   public static String reverseString(String str){
     char[] string = str.toCharArray();
     String result = "";
